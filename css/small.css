@@ -1,0 +1,109 @@
+/* NAAAAAAAAAAAAAAAAAAAAAAAAAAAVVVVV* */
+nav button {
+    margin: .2rem 2vw;
+    background: transparent;
+    border: none;
+    font-size: 2rem;
+
+}
+
+
+nav ul {
+
+    list-style-type: none;
+    margin-left: -10px;
+    position: absolute;
+    width: 100%;
+    z-index: 1;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+nav ul li a {
+
+    display: block;
+    padding: .8rem 2vw;
+    text-decoration: none;
+    color: #fcfeeb;
+    border-top: 1px solid #0e5361;
+}
+
+
+
+
+
+
+/*FINISH NAV*/
+header {
+    background-color: #0a8796;
+}
+body {
+    background-color: #f1f4f5;
+}
+
+header, body, footer {
+    padding: 10px;
+ 
+}
+
+/*  IMAGENES*/
+.logo img {
+    width: 140px;
+    margin-left: 50px;
+
+}
+.podcast-home img, .classes-home img, .contact-home img, .faq-home img {
+
+    width: 290px;
+
+}
+
+
+footer img {
+    width: 50px;
+}
+
+/*FUENTES */
+.presentation-home, h1, h3 {
+    text-align: center;
+}
+h1, h2, h3{
+    color: #0e5361;
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+}
+
+p, div ul {
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9rem;
+
+}
+
+ /*BUTTON*/
+ .reserve-button a, .podcasts-button a, .classes-button a, .contact-button a, .faq-button-home a {
+    text-decoration: none ;
+    color: #fff;
+    font-size: 25px;
+    font-family: 'Oswald', sans-serif;
+    
+
+ }
+ .reserve-button , .podcasts-button, .classes-button ,.faq-button-home  { 
+    background-color: #06ccd7;
+    text-align: center;
+    height: 50px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    padding-top: 15px;
+ }
+
+.contact-button {
+    background-color: #06ccd7;
+    text-align: center;
+    height: 60px;
+    padding-top: 2px;
+    padding-bottom: 25px;
+    margin-top: 15px;
+    margin-bottom: 40px;
+
+
+}

@@ -1,0 +1,12 @@
+/* Media Query for medium+ views */
+@media only screen and (min-width: 38.5em) {
+
+
+    .logo img {
+        width: 200px;
+    }
+
+
+
+
+}

@@ -1,0 +1,13 @@
+/* Larger viewports */
+@media only screen and (min-width: 55em) {
+
+    .logo img {
+        width: 250px;
+       
+    
+    }
+
+
+
+
+}
