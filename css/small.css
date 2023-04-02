@@ -36,8 +36,28 @@ nav ul {
         display: none;
     }
 
+/*prueba*/
+nav ul.open {
+    display: block;}
+#hamburguerBtn span:nth-child(1) {
+    display: block;
+}
 
+#hamburguerBtn span:nth-child(2) {
+    display: none;
+}
 
+#hamburguerBtn.open span:nth-child(1) {
+    display: none;
+}
+
+#hamburguerBtn.open span:nth-child(2) {
+    display: block; }
+
+#hamburguerBtn {
+    color: #fcfeeb;
+
+}
 
 
 
