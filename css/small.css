@@ -78,6 +78,7 @@ header, body, footer {
 .logo img {
     width: 140px;
     margin-left: 50px;
+    margin-top: -80px;
 
 }
 .podcast-home img, .classes-home img, .contact-home img, .faq-home img {
