@@ -62,8 +62,13 @@ nav ul.open {
 
 
 /*FINISH NAV*/
+
 header {
     background-color: #0a8796;
+}
+
+.header-container {
+    display: flex;
 }
 body {
     background-color: #f1f4f5;
@@ -76,11 +81,20 @@ header, body, footer {
 
 /*  IMAGENES*/
 .logo img {
-    width: 140px;
+    width: 150px;
     margin-left: 60px;
-    margin-top: -80px;
+    margin-top: -40px;
 
 }
+
+/*SOCIAL MEDIAS*/
+.social {
+    display: flex;
+    margin-left: 130px;
+    margin-top: 5px;
+}
+
+
 .podcast-home img, .classes-home img, .contact-home img, .faq-home img {
 
     width: 290px;
