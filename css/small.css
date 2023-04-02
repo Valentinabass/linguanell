@@ -82,7 +82,7 @@ header, body, footer {
 /*  IMAGENES*/
 .logo img {
     width: 150px;
-    margin-left: 60px;
+    margin-left: 20px;
     margin-top: -40px;
 
 }
@@ -90,7 +90,7 @@ header, body, footer {
 /*SOCIAL MEDIAS*/
 .social {
     display: flex;
-    margin-left: 130px;
+    margin-left: 80px;
     margin-top: 5px;
 }
 
