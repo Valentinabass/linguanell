@@ -24,8 +24,17 @@ nav ul li a {
     padding: .8rem 2vw;
     text-decoration: none;
     color: #fcfeeb;
-    border-top: 1px solid #0e5361;
+    border-top: 1px solid #e7ebec;
 }
+
+nav ul li a {
+    background-color: #06ccd7;
+     width: 100%;
+    }
+
+nav ul {
+        display: none;
+    }
 
 
 
