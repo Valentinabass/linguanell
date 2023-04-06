@@ -164,3 +164,11 @@ p, div ul {
 
 
 }
+/*ANOTHER SIZEEEEE*/
+@media only screen and (min-width: 20.5em) {
+
+.social {
+    margin-left: 150px;
+}
+
+}
