@@ -85,6 +85,13 @@ footer {
     text-align: center;
 }
 
+footer ul li a {
+    text-decoration: none;
+ 
+}
+footer ul {
+    list-style-type: none;
+}
 /*  IMAGENES*/
 .logo img {
     width: 160px;
