@@ -80,6 +80,9 @@ header, body, footer {
 }
 footer {
     color: #f1f4f5;
+    padding: 20px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
 }
 
 /*  IMAGENES*/
