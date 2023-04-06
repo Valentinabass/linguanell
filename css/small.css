@@ -89,7 +89,8 @@ header, body, footer {
 /*SOCIAL MEDIAS*/
 .social {
     display: flex;
-    margin-left: 80px;
+    flex-direction: column ;
+    margin-left: 180px;
     margin-top: 5px;
 }
 
