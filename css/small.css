@@ -92,6 +92,16 @@ footer ul li a {
 footer ul {
     list-style-type: none;
 }
+
+footer .copy {
+	display: flex;
+    font-size: 12px;
+    justify-content: center;
+	}
+
+.footer-hr {
+	width: 100%;
+}
 /*  IMAGENES*/
 .logo img {
     width: 160px;
@@ -163,6 +173,14 @@ p, div ul {
     margin-bottom: 40px;
 
 
+}
+
+.faq-home ul li {
+    list-style-type: circle;
+    text-align:left
+}
+.faq-home img {
+    display: none;
 }
 /*ANOTHER SIZEEEEE*/
 @media only screen and (max-width: 20.5em) {
